@@ -1,0 +1,4 @@
+host *
+	user jumeyer
+	ForwardAgent yes
+	AddKeysToAgent yes
